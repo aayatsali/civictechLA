@@ -10,6 +10,7 @@ We are a group of technologists, based in the Los Angeles area, working at all l
 
 > Due to the wildfires early 2025, we will host our next meet up in the spring. Sending our love to all those impacted by the wildfires :blue_heart:
 
+import 'add-to-calendar-button';
 <add-to-calendar-button
   name="[Reminder] Test the Add to Calendar Button"
   startDate="2025-03-08"
