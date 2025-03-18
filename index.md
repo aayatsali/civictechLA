@@ -2,7 +2,6 @@
 title: "Los Angeles Civic Tech Hangout"
 permalink: /
 layout: default
-<script src="https://cdn.jsdelivr.net/npm/add-to-calendar-button@2" async defer></script>
 ---
 
 # Hi! Are you interested in meeting other civic tech folks?
@@ -12,20 +11,17 @@ We are a group of technologists, based in the Los Angeles area, working at all l
 > Due to the wildfires early 2025, we will host our next meet up in the spring. Sending our love to all those impacted by the wildfires :blue_heart:
 
 <add-to-calendar-button
-  name="LA Civic Tech Hang"
-  description="A nice description does not hurt"
-  startDate="2025-05-03"
-  endDate="2025-05-03"
-  startTime="12:00"
-  endTime="15:00"
-  location="Jackson Market"
-  options="['Apple','Google','iCal','Microsoft365','Outlook.com','Yahoo']"
+  name="[Reminder] Test the Add to Calendar Button"
+  startDate="2025-03-08"
+  startTime="10:15"
+  endTime="23:30"
   timeZone="America/Los_Angeles"
-  trigger="click"
-  inline
-  listStyle="modal"
-  iCalFileName="Reminder-Event"
-/>
+  location="World Wide Web"
+  description="Check out the maybe easiest way to include Add to Calendar Buttons to your web projects:[br]→ [url]https://add-to-calendar-button.com/|Click here![/url]"
+  options="'Apple','Google','iCal','Outlook.com','Microsoft 365','Microsoft Teams','Yahoo'"
+  lightMode="bodyScheme"
+></add-to-calendar-button>
+
 
 # Sign up for our LA Civic Tech Listserv to get updates
 
