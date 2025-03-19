@@ -10,7 +10,7 @@ We are a group of technologists, based in the Los Angeles area, working at all l
 
 > Due to the wildfires early 2025, we will host our next meet up in the spring. Sending our love to all those impacted by the wildfires :blue_heart:
 
-import 'add-to-calendar-button';
+
 <add-to-calendar-button
   name="[Reminder] Test the Add to Calendar Button"
   startDate="2025-03-08"
@@ -26,7 +26,27 @@ import 'add-to-calendar-button';
 
 # Sign up for our LA Civic Tech Listserv to get updates
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfO1nXyQ4aHt4MMRpTTHI2bfv2KifDTFNzfYEz7_-FAC_wUhg/viewform?embedded=true" width="640" height="684" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<div id="mc_embed_shell">
+      <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
+  <style type="text/css">
+        #mc_embed_signup{background:#fff; false;clear:left; font:14px Helvetica,Arial,sans-serif; width: 600px;}
+        /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+           We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+    <form action="https://gmail.us9.list-manage.com/subscribe/post?u=5be2f5a34c7bf2c8c8f506a72&amp;id=d026a5daed&amp;f_id=009809e1f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
+        <div id="mc_embed_signup_scroll"><h2>Subscribe</h2>
+            <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+            <div class="mc-field-group"><label for="mce-FNAME">First Name </label><input type="text" name="FNAME" class=" text" id="mce-FNAME" value=""></div><div class="mc-field-group"><label for="mce-LNAME">Last Name </label><input type="text" name="LNAME" class=" text" id="mce-LNAME" value=""></div><div class="mc-field-group"><label for="mce-EMAIL">Email Address <span class="asterisk">*</span></label><input type="email" name="EMAIL" class="required email" id="mce-EMAIL" value="" required=""></div>
+        <div id="mce-responses" class="clear">
+            <div class="response" id="mce-error-response" style="display: none;"></div>
+            <div class="response" id="mce-success-response" style="display: none;"></div>
+        </div><div aria-hidden="true" style="position: absolute; left: -5000px;"><input type="text" name="b_5be2f5a34c7bf2c8c8f506a72_d026a5daed" tabindex="-1" value=""></div><div class="clear"><input type="submit" name="subscribe" id="mc-embedded-subscribe" class="button" value="Subscribe"></div>
+    </div>
+</form>
+</div>
+<script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script><script type="text/javascript">(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[0]='EMAIL';ftypes[0]='email';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';fnames[6]='COMPANY';ftypes[6]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script></div>
+
 
 
 
