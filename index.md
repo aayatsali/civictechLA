@@ -14,10 +14,10 @@ We are a group of technologists, based in the Los Angeles area, working at all l
 
 # Next Meet Up 
 
-**May 3rd, 2025**
-Noon - 3:00 PM 
-Jackson Market 
-4065 Jackson Ave
+**May 3rd, 2025** <br>
+Noon - 3:00 PM <br>
+Jackson Market <br>
+4065 Jackson Ave <br>
 Culver City, CA 90232
 
 <add-to-calendar-button
@@ -27,8 +27,8 @@ Culver City, CA 90232
   startTime="12:00"
   endTime="15:00"
   timeZone="America/Los_Angeles"
-  location="Jackson Market in Culver City"
-  description="A place for civic tech nerd to hang in LA"
+  location="Jackson Market 4065 Jackson Ave, Culver City, CA 90232"
+  description="A place for civic tech nerds to hang in LA! Don't feel obligated to stay the full time-- our start and end time is a window for folks to pop in. You are also welcome to forward this to others whom may be interested."
   options="'Apple','Google','iCal','Outlook.com','Microsoft 365','Microsoft Teams','Yahoo'"
   lightMode="bodyScheme"
 ></add-to-calendar-button>
