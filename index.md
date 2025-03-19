@@ -20,7 +20,7 @@ We are a group of technologists, based in the Los Angeles area, working at all l
   startTime="12:00"
   endTime="15:00"
   timeZone="America/Los_Angeles"
-  location="World Wide Web"
+  location="Jackson Market in Culver City"
   description="A place for civic tech nerd to hang in LA"
   options="'Apple','Google','iCal','Outlook.com','Microsoft 365','Microsoft Teams','Yahoo'"
   lightMode="bodyScheme"
