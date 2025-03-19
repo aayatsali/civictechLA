@@ -12,7 +12,7 @@ We are a group of technologists, based in the Los Angeles area, working at all l
 
 > Due to the wildfires early 2025, we will host our next meet up in the spring. Sending our love to all those impacted by the wildfires :blue_heart:
 
-# Next Meet Up 
+# Next meet up 
 
 **May 3rd, 2025** <br>
 Noon - 3:00 PM <br>
