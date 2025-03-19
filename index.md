@@ -15,13 +15,13 @@ We are a group of technologists, based in the Los Angeles area, working at all l
 
 <add-to-calendar-button
   attributeName="true"
-  name="[Reminder] Test the Add to Calendar Button"
-  startDate="2025-03-08"
-  startTime="10:15"
-  endTime="23:30"
+  name="[Reminder] LA Civic Tech Hang"
+  startDate="2025-05-03"
+  startTime="12:00"
+  endTime="15:00"
   timeZone="America/Los_Angeles"
   location="World Wide Web"
-  description="Check out the maybe easiest way to include Add to Calendar Buttons to your web projects:[br]→ [url]https://add-to-calendar-button.com/|Click here![/url]"
+  description="A place for civic tech nerd to hang in LA"
   options="'Apple','Google','iCal','Outlook.com','Microsoft 365','Microsoft Teams','Yahoo'"
   lightMode="bodyScheme"
 ></add-to-calendar-button>
