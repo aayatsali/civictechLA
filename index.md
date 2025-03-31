@@ -14,7 +14,7 @@ We are a group of technologists based in the Los Angeles area working at all lev
 
 # Next meet up 
 
-**May 3rd, 2025** <br>
+**May 10th, 2025** <br>
 Noon - 3:00 PM <br>
 Jackson Market <br>
 4065 Jackson Ave <br>
