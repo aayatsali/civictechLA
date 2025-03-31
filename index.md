@@ -23,7 +23,7 @@ Culver City, CA 90232
 <add-to-calendar-button
   attributeName="true"
   name="[Reminder] LA Civic Tech Hang"
-  startDate="2025-05-03"
+  startDate="2025-05-10"
   startTime="12:00"
   endTime="15:00"
   timeZone="America/Los_Angeles"
